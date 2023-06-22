@@ -1,5 +1,8 @@
 package utils;
 
 public enum BrowserType {
-	CHROME, FIREFOX, EDGE
+	CHROME, 
+	FIREFOX, 
+	EDGE, 
+	OPERA
 }
